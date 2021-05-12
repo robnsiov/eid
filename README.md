@@ -1,2 +1,2 @@
 # Eid-al-Fitr
-[Go Live](https://robnsiov.github.io/eid-al-fitr/)
+[Go Live](https://robnsiov.github.io/eid/)
